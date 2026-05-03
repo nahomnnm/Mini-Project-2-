@@ -25,10 +25,6 @@ This is a simple Java project demonstrating basic Object-Oriented Programming (O
 5. `FinalVehicle.java`: Demonstrates inheritance restrictions using the `final` keyword.
 6. `Main.java`: Runs and tests the program.
 
- How to Run
-
-1. **Compile**: `javac *.java`
-2. **Run**: `java Main`
 
  Concepts Used
 
